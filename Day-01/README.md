@@ -8,4 +8,4 @@ Following MyFirstHack's 90-day path from beginner to cybersecurity foundations. 
 
 If you're in cyber or also learning, let's connect — I'll be posting every day.
 
-\#myfirsthack
+\#myfirsthack.
